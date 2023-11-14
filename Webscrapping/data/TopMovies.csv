@@ -1,0 +1,108 @@
+Average Rank,Film,Year,Rotten Tomatoes' Top 100,IMDb's Top 250 ,Empire's Top 100 ,AFI's Top 100 ,BFI's Top 100
+1,The Godfather,1972,17,2,3,2,21
+2,Citizen Kane,1941,2,93,40,1,2
+3,Casablanca,1942,8,42,33,3,84
+4,"The Godfather, Part II",1974,99,4,14,32,31
+5,Singin' in the Rain,1952,52,85,67,5,20
+6,Psycho,1960,88,32,81,14,35
+7,Rear Window,1954,47,49,72,48,53
+8,Apocalypse Now,1979,unranked,55,29,30,14
+9,2001: A Space Odyssey,1968,unranked,89,23,15,6
+10,Seven Samurai,1954,49,20,65,unranked,17
+11,Vertigo,1958,unranked,99,50,9,1
+12,Sunset Blvd,1950,21,60,unranked,16,63
+13,Modern Times,1936,4,45,unranked,78,63
+14,Lawrence of Arabia,1962,unranked,95,62,7,81
+15,North by Northwest,1959,79,98,unranked,55,53
+16,Star Wars,1977,unranked,27,11,13,unranked
+17,Parasite,2019,6,35,18,unranked,unranked
+18,Schindler's List,1993,unranked,6,46,8,unranked
+19,Lord of the Rings: The Fellowship of the Ring,2001,unranked,9,1,50,unranked
+20,Shawshank Redemption,1994,unranked,1,5,72,unranked
+21,It's a Wonderful Life,1946,unranked,21,44,20,unranked
+22,Pulp Fiction,1994,unranked,8,7,94,unranked
+23,Avengers: Endgame,2019,7,81,22,unranked,unranked
+24,City Lights,1931,unranked,51,unranked,11,50
+25,One Flew Over the Cuckoo's Nest,1975,unranked,18,66,33,unranked
+26,Goodfellas,1990,unranked,17,10,92,unranked
+27,Raiders of the Lost Ark,1981,unranked,56,9,66,unranked
+28,12 Angry Men,1957,unranked,5,42,87,unranked
+29,The Silence of the Lambs,1991,unranked,22,41,74,unranked
+30,Taxi Driver,1976,unranked,unranked,55,52,31
+31,Saving Private Ryan,1998,unranked,24,54,71,unranked
+32,E.T. the Extra Terrestrial,1982,48,unranked,79,24,unranked
+33,Alien,1979,84,50,21,unranked,unranked
+34,Spider-Man: Into the Spider-verse,2018,19,70,70,unranked,unranked
+35,Blade Runner,1982,unranked,unranked,16,97,69
+36,Double Indemnity,1944,54,100,unranked,29,unranked
+37,The Dark Knight,2008,unranked,3,4,unranked,unranked
+38,The Wizard of Oz,1939,3,unranked,unranked,10,unranked
+39,Star Wars: Episode V- The Empire Strikes Back,1980,unranked,15,2,unranked,unranked
+40,The Searchers,1956,unranked,unranked,unranked,12,7
+41,Mad Max: Fury Road,2015,18,unranked,12,unranked,unranked
+42,Inception,2010,unranked,13,19,unranked,unranked
+43,Lord of the Rings: Return of the King,2003,unranked,7,27,unranked,unranked
+44,The Matrix,1999,unranked,16,20,unranked,unranked
+45,Fight Club,1999,unranked,12,25,unranked,unranked
+46,Back to the Future,1985,unranked,30,13,unranked,unranked
+47,It Happened One Night,1934,1,unranked,unranked,46,unranked
+48,"The Good, the Bad, and the Ugly",1966,unranked,10,38,unranked,unranked
+49,Lord of the Rings: The Two Towers,2002,unranked,14,34,unranked,unranked
+50,All About Eve,1950,22,unranked,unranked,28,unranked
+51,The General,1926,unranked,unranked,unranked,18,34
+52,Terminator 2: Judgement Day,1991,unranked,29,24,unranked,unranked
+53,Se7en,1995,unranked,19,37,unranked,unranked
+54,Raging Bull,1980,unranked,unranked,unranked,4,53
+55,Interstellar,2014,unranked,28,31,unranked,unranked
+56,Jaws,1975,unranked,unranked,6,56,unranked
+57,Some Like it Hot,1959,unranked,unranked,unranked,22,42
+58,The Philadelphia Story,1940,24,unranked,unranked,44,unranked
+59,Avengers: Infinity War,2018,unranked,65,8,unranked,unranked
+60,Gladiator,2000,unranked,38,39,unranked,unranked
+61,On the Waterfront,1954,unranked,38,39,unranked,unranked
+62,Get Out,2017,15,unranked,63,unranked,unranked
+63,Moonlight,2016,20,unranked,59,unranked,unranked
+64,Spirited Away,2001,unranked,31,49,unranked,unranked
+65,Lady Bird,2017,12,unranked,68,unranked,unranked
+66,Aliens,1986,unranked,66,17,unranked,unranked
+67,Forrest Gump,1994,unranked,11,unranked,76,unranked
+68,Snow White and the Seven Dwarves,1937,56,unranked,unranked,34,unranked
+69,Black Panther,2018,5,unranked,86,unranked,unranked
+70,Whiplash,2014,unranked,43,51,unranked,unranked
+71,The Shining,1980,unranked,62,35,unranked,unranked
+72,Metropolis,1927,63,unranked,unranked,unranked,35
+73,The Maltese Falcon,1941,67,unranked,unranked,31,unranked
+74,Chinatown,1974,unranked,unranked,unranked,21,78
+75,The Best Years of Our Lives,1946,62,unranked,unranked,37,unranked
+76,Mulholland Drive,2001,unranked,unranked,73,unranked,28
+77,In the Mood for Love,2000,unranked,unranked,78,unranked,24
+78,A Quiet Place,2018,29,unranked,75,unranked,unranked
+79,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,unranked,68,unranked,39,unranked
+80,Coco,2017,37,76,unranked,unranked,unranked
+81,The Third Man,1949,46,unranked,unranked,unranked,73
+82,The Usual Suspects,1995,unranked,39,82,unranked,unranked
+83,La Grande Illusion,1937,50,unranked,unranked,unranked,73
+84,Once Upon a Time in the West,1968,unranked,47,unranked,unranked,78
+85,A Night at the Opera,1935,40,unranked,unranked,85,unranked
+86,Logan,2017,34,unranked,91,unranked,unranked
+87,Thor: Ragnarok,2017,42,unranked,83,unranked,unranked
+88,Léon: The Professional,1994,unranked,34,92,unranked,unranked
+89,King Kong,1933,85,unranked,unranked,41,unranked
+90,Eternal Sunshine of the Spotless Mind,2004,unranked,91,36,unranked,unranked
+91,Arrival,2016,51,unranked,76,unranked,unranked
+92,Portrait of a Lady on Fire,2020,36,unranked,93,unranked,unranked
+93,Nashville,1975,unranked,unranked,unranked,59,73
+94,Intolerance,1916,unranked,unranked,unranked,49,93
+95,La La Land,2016,78,unranked,64,unranked,unranked
+96,Do the Right Thing,unranked,unranked,47,96,unranked,unranked
+97,Inglourious Basterds,2009,unranked,78,69,unranked,unranked
+98,The Battle of Algiers,1966,100,unranked,unranked,unranked,48
+99,M,1931,unranked,96,unranked,unranked,56
+100,The Wild Bunch,1969,unranked,unranked,unranked,79,84
+101,Star Wars: Return of the Jedi,1983,unranked,87,77,unranked,unranked
+102,A Clockwork Orange,1971,unranked,100,97,unranked,unranked
+103,LA Confidential,1997,90,unranked,80,unranked,unranked
+104,Titanic,1997,unranked,unranked,88,83,unranked
+105,Toy Story,1995,unranked,75,unranked,99,unranked
+106,Reservoir Dogs,1992,unranked,90,100,unranked,unranked
+107,Paddington 2,2018,93,unranked,98,unranked,unranked
