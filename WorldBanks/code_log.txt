@@ -1,1 +1,5 @@
 2023-Nov-14-15:00:24 test
+2023-Nov-15-00:22:24 data extracted
+2023-Nov-15-00:22:25 data transformed
+2023-Nov-15-00:22:25 data loaded
+2023-Nov-15-00:22:25 query : SELECT AVG(MARKET_cap_GBP) FROM WorldBanks

@@ -1,9 +1,8 @@
 from datetime import datetime
 
-log_name = "code_log.txt"
-
 
 def log_process(message):
+    log_name = "code_log.txt"
     timestamp_format = "%Y-%h-%d-%H:%M:%S"  # Year-Monthname-Day-Hour-Minute-Second
     now = datetime.now()
     timestamp = now.strftime(timestamp_format)
